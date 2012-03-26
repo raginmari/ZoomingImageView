@@ -1,3 +1,3 @@
 Adds scrolling and zooming to the android.widget.ImageView class. The content image can be scrolled in the x and y directions. The class supports pinch zooming and animated zooming of the content image.
 
-I am using it to display SVG documents, for example (see http://code.google.com/p/svg-android/).
+I am using it to display SVG documents, for example (using this fine SVG library: http://code.google.com/p/svg-android/).
